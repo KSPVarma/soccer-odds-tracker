@@ -1,0 +1,4481 @@
+{
+  "book": "pinnacle",
+  "league_key": "bundesliga",
+  "league_id": 1842,
+  "tier": 1,
+  "country": "Germany",
+  "scraped_at": "2026-03-15T18:45:38.294003+00:00",
+  "matchup_count": 14,
+  "matchups": [
+    {
+      "matchup_id": 1625768060,
+      "home_team": "Stuttgart (Bookings)",
+      "away_team": "RB Leipzig (Bookings)",
+      "start_time": "2026-03-15T18:30:00Z",
+      "status": "pending",
+      "is_live": false,
+      "league_id": 197439,
+      "league_name": "Germany - Bundesliga Bookings",
+      "rotation": 32890,
+      "markets": [
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -127
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -104
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.5",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -117
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1625552982,
+      "home_team": "Bayern Munich",
+      "away_team": "Union Berlin",
+      "start_time": "2026-03-21T14:30:00Z",
+      "status": "pending",
+      "is_live": false,
+      "league_id": 1842,
+      "league_name": "Germany - Bundesliga",
+      "rotation": 11222,
+      "markets": [
+        {
+          "market_type": "moneyline",
+          "key": "s;0;m",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -617
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 1118
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 753
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;2.5;home",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -148
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 116
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;0.5;away",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -123
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -104
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-2.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -124
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 104
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-3.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 227
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -309
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-2.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 164
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -214
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-2.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 127
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -164
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-2.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 104
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -129
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -161
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -202
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 155
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -287
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 213
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -482
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 334
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -112
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -108
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -314
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 225
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -263
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 193
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -213
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 160
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -147
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 117
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 110
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -138
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;4.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 145
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -192
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;4.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 174
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -234
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;4.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 202
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -278
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1625610785,
+      "home_team": "Borussia Dortmund",
+      "away_team": "Hamburger SV",
+      "start_time": "2026-03-21T17:30:00Z",
+      "status": "pending",
+      "is_live": false,
+      "league_id": 1842,
+      "league_name": "Germany - Bundesliga",
+      "rotation": 11228,
+      "markets": [
+        {
+          "market_type": "moneyline",
+          "key": "s;0;m",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -252
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 602
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 402
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;2.5;home",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 132
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -167
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;0.5;away",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -168
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 133
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.25",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -118
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 101
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-2.25",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 233
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -299
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-2.0",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 195
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -247
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.75",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 139
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -169
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.5",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 107
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -129
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.0",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -166
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 137
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.75",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -209
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 171
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.5",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -257
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 203
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.25",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -375
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 285
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.0",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -117
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -101
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.0",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -443
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 319
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.25",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -264
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 203
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.5",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -186
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.75",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -152
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 124
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.25",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 109
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -133
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.5",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 134
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -164
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.75",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 171
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -217
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;4.0",
+          "cutoff_at": "2026-03-21T17:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 239
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -316
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1625711738,
+      "home_team": "Augsburg",
+      "away_team": "Stuttgart",
+      "start_time": "2026-03-22T18:30:00Z",
+      "status": "pending",
+      "is_live": false,
+      "league_id": 1842,
+      "league_name": "Germany - Bundesliga",
+      "rotation": 45604,
+      "markets": [
+        {
+          "market_type": "moneyline",
+          "key": "s;0;m",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 258
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -107
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 292
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;home",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 157
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -201
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;away",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -139
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 110
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.5",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -110
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -106
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.5",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 254
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -330
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.25",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 214
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -272
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 174
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -213
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.25",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 119
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -142
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.75",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -141
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 118
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;1.0",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -195
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 160
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;1.25",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -241
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 191
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;1.5",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -284
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 223
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.0",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -107
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -111
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.0",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -410
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 299
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.25",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -243
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 189
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.5",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -171
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 139
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.75",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -139
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 115
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.25",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 118
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -143
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.5",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 142
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -176
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.75",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 182
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -233
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;4.0",
+          "cutoff_at": "2026-03-22T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 254
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1626255119,
+      "home_team": "Stuttgart",
+      "away_team": "RB Leipzig",
+      "start_time": "2026-03-15T18:30:00Z",
+      "status": "started",
+      "is_live": true,
+      "league_id": 1842,
+      "league_name": "Germany - Bundesliga",
+      "rotation": 32890,
+      "markets": [
+        {
+          "market_type": "moneyline",
+          "key": "s;0;m",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 160
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 147
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 272
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;home",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -116
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 100
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;away",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -124
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 106
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -102
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -109
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.75",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 202
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -260
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.5",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 156
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -185
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.25",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 129
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -146
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.25",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -138
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 122
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.5",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -177
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.75",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -248
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 193
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.25",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -116
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 102
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.5",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -245
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 189
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.75",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -197
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 163
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.0",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -156
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 135
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.5",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 107
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -123
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.75",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 132
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -158
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;4.0",
+          "cutoff_at": "2026-03-15T22:30:56.717000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 171
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -221
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1625550055,
+      "home_team": "Heidenheim",
+      "away_team": "Bayer Leverkusen",
+      "start_time": "2026-03-21T14:30:00Z",
+      "status": "pending",
+      "is_live": false,
+      "league_id": 1842,
+      "league_name": "Germany - Bundesliga",
+      "rotation": 11220,
+      "markets": [
+        {
+          "market_type": "moneyline",
+          "key": "s;0;m",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 420
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -173
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 335
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;0.5;home",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -223
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 173
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;away",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -192
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;1.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -111
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -105
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 310
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -413
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 196
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -248
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 143
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -174
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 117
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -139
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;1.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -146
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 122
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;1.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -182
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 149
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;1.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -248
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 196
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;2.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -378
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 287
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -110
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -108
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -419
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 304
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -249
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 193
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -176
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 143
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -143
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 118
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 115
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -140
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 140
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -172
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 178
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -228
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;4.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 250
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -333
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1625550056,
+      "home_team": "FC Koln",
+      "away_team": "Borussia Monchengladbach",
+      "start_time": "2026-03-21T14:30:00Z",
+      "status": "pending",
+      "is_live": false,
+      "league_id": 1842,
+      "league_name": "Germany - Bundesliga",
+      "rotation": 11226,
+      "markets": [
+        {
+          "market_type": "moneyline",
+          "key": "s;0;m",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 129
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 204
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 251
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;home",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 104
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -131
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;away",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 145
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -185
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -101
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -116
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 295
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -390
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 252
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -326
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 172
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -210
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 129
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -155
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -148
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 124
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -200
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 164
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -256
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 202
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -364
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 278
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -109
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -109
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;1.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -383
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 282
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -310
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 235
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -190
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 153
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -137
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 113
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 120
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -146
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 149
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -184
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 175
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -224
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 228
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1625674804,
+      "home_team": "Mainz 05",
+      "away_team": "Eintracht Frankfurt",
+      "start_time": "2026-03-22T14:30:00Z",
+      "status": "pending",
+      "is_live": false,
+      "league_id": 1842,
+      "league_name": "Germany - Bundesliga",
+      "rotation": 45600,
+      "markets": [
+        {
+          "market_type": "moneyline",
+          "key": "s;0;m",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 125
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 201
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 265
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;home",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -101
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -124
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;away",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 141
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -179
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.25",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -103
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -113
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.25",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 284
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -373
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.0",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 242
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -312
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.75",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 166
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -202
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.5",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 125
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -150
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -149
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 125
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.25",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -199
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 163
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.5",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -252
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 199
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.75",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -358
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 274
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.75",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -115
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -103
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;1.75",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -402
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 293
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.0",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -328
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 247
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.25",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -200
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 161
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.5",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -144
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 119
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.0",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 114
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -138
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.25",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 142
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -175
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.5",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 168
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -214
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.75",
+          "cutoff_at": "2026-03-22T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 218
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -285
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1625552983,
+      "home_team": "Wolfsburg",
+      "away_team": "Werder Bremen",
+      "start_time": "2026-03-21T14:30:00Z",
+      "status": "pending",
+      "is_live": false,
+      "league_id": 1842,
+      "league_name": "Germany - Bundesliga",
+      "rotation": 11224,
+      "markets": [
+        {
+          "market_type": "moneyline",
+          "key": "s;0;m",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 161
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 153
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 269
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;home",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 117
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -147
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;away",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 113
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -142
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -105
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -111
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 319
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -427
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 213
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -271
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 160
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -195
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 128
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -153
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -145
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 121
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -185
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 152
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -256
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 203
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;1.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -401
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 303
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -120
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 101
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;1.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -424
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 307
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -348
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 259
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -210
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 168
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -150
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 124
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.0",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 108
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -131
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.25",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 135
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -166
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.5",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 161
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -204
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.75",
+          "cutoff_at": "2026-03-21T14:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 208
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1626255126,
+      "home_team": "Stuttgart (Corners)",
+      "away_team": "RB Leipzig (Corners)",
+      "start_time": "2026-03-15T18:30:00Z",
+      "status": "started",
+      "is_live": true,
+      "league_id": 5874,
+      "league_name": "Germany - Bundesliga Corners",
+      "rotation": 32890,
+      "markets": [
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;4.5;home",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 107
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -134
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;5.0;away",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -115
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -106
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.5",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 102
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -124
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.5",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 164
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -209
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.0",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 135
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -168
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -124
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 102
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.5",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -155
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 126
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;9.5",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -113
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -105
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;8.5",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -201
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 159
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;9.0",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -158
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 127
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;10.0",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 117
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -144
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;10.5",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 148
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -186
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1625767123,
+      "home_team": "Stuttgart (Corners)",
+      "away_team": "RB Leipzig (Corners)",
+      "start_time": "2026-03-15T18:30:00Z",
+      "status": "pending",
+      "is_live": false,
+      "league_id": 5874,
+      "league_name": "Germany - Bundesliga Corners",
+      "rotation": 32890,
+      "markets": [
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;5.5;home",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -103
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -124
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;4.5;away",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -100
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -128
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.0",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -110
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -112
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-2.0",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 137
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -186
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.5",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 109
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -142
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.5",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -140
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 108
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -183
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 135
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;10.0",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -110
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -108
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;9.0",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -196
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 149
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;9.5",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -142
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 114
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;10.5",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 112
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -140
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;11.0",
+          "cutoff_at": "2026-03-15T18:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 145
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -190
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1625693959,
+      "home_team": "St. Pauli",
+      "away_team": "Freiburg",
+      "start_time": "2026-03-22T16:30:00Z",
+      "status": "pending",
+      "is_live": false,
+      "league_id": 1842,
+      "league_name": "Germany - Bundesliga",
+      "rotation": 45602,
+      "markets": [
+        {
+          "market_type": "moneyline",
+          "key": "s;0;m",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 168
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 189
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 204
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;home",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 166
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -214
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;away",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 191
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -248
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -117
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 100
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.0",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 374
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -511
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.75",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 231
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -296
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.5",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 167
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -204
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.25",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 127
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -151
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.25",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -173
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 144
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.5",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -231
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 188
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.75",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -340
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 261
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;1.0",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -606
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 432
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.25",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -107
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -111
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;1.25",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -418
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 304
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;1.5",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -271
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 208
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;1.75",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -213
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 171
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.0",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -158
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.5",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 122
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -148
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.75",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 159
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -197
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.0",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 225
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -296
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.25",
+          "cutoff_at": "2026-03-22T16:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 262
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -352
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1625518247,
+      "home_team": "RB Leipzig",
+      "away_team": "Hoffenheim",
+      "start_time": "2026-03-20T19:30:00Z",
+      "status": "pending",
+      "is_live": false,
+      "league_id": 1842,
+      "league_name": "Germany - Bundesliga",
+      "rotation": 27398,
+      "markets": [
+        {
+          "market_type": "moneyline",
+          "key": "s;0;m",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -107
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 246
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 307
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;home",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -175
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 137
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;away",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 117
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -147
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.5",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -106
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -110
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.5",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 225
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -287
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.25",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 192
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -243
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-1.0",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 161
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -196
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.75",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 118
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -142
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.25",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -141
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 117
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -205
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 168
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.25",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -260
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 205
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.5",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -314
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 243
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.25",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -121
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 101
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.25",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -358
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 257
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.5",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -247
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 186
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.75",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -204
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 160
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.0",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -164
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 132
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.5",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 102
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -125
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.75",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 127
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -160
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;4.0",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 168
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -220
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;4.25",
+          "cutoff_at": "2026-03-20T19:30:00+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 197
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -263
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "matchup_id": 1626255114,
+      "home_team": "Stuttgart",
+      "away_team": "RB Leipzig",
+      "start_time": "2026-03-15T18:30:00Z",
+      "status": "started",
+      "is_live": true,
+      "league_id": 1842,
+      "league_name": "Germany - Bundesliga",
+      "rotation": 32890,
+      "markets": [
+        {
+          "market_type": "moneyline",
+          "key": "s;0;m",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 207
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 120
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 258
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;home",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 123
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -144
+            }
+          ]
+        },
+        {
+          "market_type": "team_total",
+          "key": "s;0;tt;1.5;away",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -118
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 102
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.25",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -105
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -105
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.5",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 201
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -259
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;-0.25",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 170
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -202
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.0",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 134
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -151
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.5",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -138
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 122
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;0.75",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -188
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 159
+            }
+          ]
+        },
+        {
+          "market_type": "spread",
+          "key": "s;0;s;1.0",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -297
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 227
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.0",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -110
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -103
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.25",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -259
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 198
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.5",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -178
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 148
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;2.75",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -142
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 123
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.25",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 116
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -133
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.5",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 139
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -167
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "key": "s;0;ou;3.75",
+          "cutoff_at": "2026-03-15T22:30:56.707000+00:00",
+          "prices": [
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": 175
+            },
+            {
+              "participant_id": null,
+              "participant_name": "participant_None",
+              "price": -226
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
